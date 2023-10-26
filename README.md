@@ -5,6 +5,6 @@
 * [Code]()
 #### Unit 3
 * [Video](https://youtu.be/Q96G7RdibkE)
-* [Code]()
+* [Code](code/verkefni1/Unit3)
 
 ---
