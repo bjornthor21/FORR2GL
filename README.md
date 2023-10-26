@@ -29,3 +29,6 @@
 * þar getur þú breytt properties svo sem bætt við components eða sett scriptu á objectið
 
 ---
+
+---
+### [EFST](FORR2GL)
