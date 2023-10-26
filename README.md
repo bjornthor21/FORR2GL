@@ -1,6 +1,6 @@
 # FORR2GL
 ### Verkefni 1
-### Unit 1
+#### Unit 1
 * [Video]()
 * [Code]()
 #### Unit 3
