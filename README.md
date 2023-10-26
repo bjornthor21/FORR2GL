@@ -1,7 +1,7 @@
 # FORR2GL
 ### Verkefni 1
 #### Unit 1
-* [Video]()
+* [Video](https://youtu.be/9rKgey_is_8?si=nQRAE9zgP25H8NhI)
 * [Code]()
 #### Unit 3
 * [Video](https://youtu.be/Q96G7RdibkE)
